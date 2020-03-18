@@ -5,4 +5,4 @@ It is possible to differentiate the commands in git, between those intended to b
    
    
  
-git init /*Set up a directory to be monitored by Git. To do this, configure the working directory, which consists of the project statistics, the index or staging area and a local repository where the commitments will be stored.*/
+git init // Set up a directory to be monitored by Git. To do this, configure the working directory, which consists of the project statistics, the index or staging area and a local repository where the commitments will be stored.
