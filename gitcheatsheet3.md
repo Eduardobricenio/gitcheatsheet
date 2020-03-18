@@ -1,4 +1,4 @@
-chaper 2
+# chaper 2
 
 
 /* This section will show a summary of the basic functions of git * seen in class.
@@ -45,10 +45,15 @@ In this way we can add new features to our project, whether it's a book, an imag
 
 
 Create a new branch
-So, to create a branch of our project, we just have to execute the following command:
+//So, to create a branch of our project, we just have to execute the following command:
 git branch new_rama
 Changing branches
+
 To switch from that main branch to the nueva_rama branch, we will execute the command:
 git checkout new_rama
 And if we want to go back to our main branch, again, we will execute the order:
 git checkout master
+
+
+//The solution is to execute the order:
+git log --oneline
