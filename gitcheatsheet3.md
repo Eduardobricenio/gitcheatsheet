@@ -37,7 +37,7 @@ git clone
 
 
 
-#chapter 3
+# chapter 3
 
 
 Branch management is a fundamental part of any version control system, allowing us to follow different paths simultaneously to achieve the ultimate goal.
