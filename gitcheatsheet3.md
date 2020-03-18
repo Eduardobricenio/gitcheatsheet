@@ -44,8 +44,8 @@ Branch management is a fundamental part of any version control system, allowing 
 In this way we can add new features to our project, whether it's a book, an image or an application... and see the result. Once we have seen how each of these branches have looked in our project, we will merge each branch with the main branch.
 
 
-Create a new branch
-//So, to create a branch of our project, we just have to execute the following command:
+##Create a new branch
+So, to create a branch of our project, we just have to execute the following command:
 git branch new_rama
 Changing branches
 
@@ -55,5 +55,5 @@ And if we want to go back to our main branch, again, we will execute the order:
 git checkout master
 
 
-//The solution is to execute the order:
+The solution is to execute the order:
 git log --oneline
