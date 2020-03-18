@@ -4,7 +4,7 @@
 /* This section will show a summary of the basic functions of git * seen in class.
 It is possible to differentiate the commands in git, between those intended to be used to manage the local working directory or those whose objective is to manage the remote repository linked to the local repository.
 
-   A summary of the local repository management command are as follows */
+  ## A summary of the local repository management command are as follows */
    
    
  
@@ -37,7 +37,7 @@ git clone
 
 
 
-chapter 3
+#chapter 3
 
 
 Branch management is a fundamental part of any version control system, allowing us to follow different paths simultaneously to achieve the ultimate goal.
