@@ -56,5 +56,6 @@ And if we want to go back to our main branch, again, we will execute the order:
 git checkout master
 
 
+
 The solution is to execute the order:
-git log --oneline
+### git log --oneline
