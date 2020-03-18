@@ -41,10 +41,11 @@ git clone
 
 
 Branch management is a fundamental part of any version control system, allowing us to follow different paths simultaneously to achieve the ultimate goal.
+
 In this way we can add new features to our project, whether it's a book, an image or an application... and see the result. Once we have seen how each of these branches have looked in our project, we will merge each branch with the main branch.
 
 
-##Create a new branch
+Create a new branch
 So, to create a branch of our project, we just have to execute the following command:
 git branch new_rama
 Changing branches
