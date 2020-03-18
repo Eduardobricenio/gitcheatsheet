@@ -1,3 +1,6 @@
+chaper 2
+
+
 /* This section will show a summary of the basic functions of git * seen in class.
 It is possible to differentiate the commands in git, between those intended to be used to manage the local working directory or those whose objective is to manage the remote repository linked to the local repository.
 
@@ -30,3 +33,22 @@ git checkout
 //It allows you to switch between the different branches of which a project is composed.
 git clone
 //Creates a local clone repository of the remote repository.
+
+
+
+
+chapter 3
+
+
+Branch management is a fundamental part of any version control system, allowing us to follow different paths simultaneously to achieve the ultimate goal.
+In this way we can add new features to our project, whether it's a book, an image or an application... and see the result. Once we have seen how each of these branches have looked in our project, we will merge each branch with the main branch.
+
+
+Create a new branch
+So, to create a branch of our project, we just have to execute the following command:
+git branch new_rama
+Changing branches
+To switch from that main branch to the nueva_rama branch, we will execute the command:
+git checkout new_rama
+And if we want to go back to our main branch, again, we will execute the order:
+git checkout master
